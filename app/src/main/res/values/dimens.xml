@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_textSize">20sp</dimen>
+    <dimen name="longText_textSize">16sp</dimen>
+    <dimen name="longText_lineHeight">24dp</dimen>
+    <dimen name="button_paddingStart">24dp</dimen>
+    <dimen name="button_paddingEnd">24dp</dimen>
+
+    <dimen name="padding">24dp</dimen>
+    <dimen name="countryImg_margin">12dp</dimen>
+    <dimen name="countryImg_width">128dp</dimen>
+    <dimen name="countryImg_height">0dp</dimen>
+    <dimen name="countryDesc_margin">24dp</dimen>
+    <dimen name="countryTitle_margin">24dp</dimen>
+</resources>
